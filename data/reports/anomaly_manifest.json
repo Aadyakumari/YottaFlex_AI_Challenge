@@ -1,0 +1,33 @@
+[
+    {
+        "case_id": "ANOMALY_001",
+        "type": "PAYMENT_OVER_ALLOCATION",
+        "description": "An extra allocation causes the invoice line to be over-allocated.",
+        "record_id": "LINE000001"
+    },
+    {
+        "case_id": "ANOMALY_002",
+        "type": "SCHOLARSHIP_EXCEEDS_ELIGIBLE_FEES",
+        "description": "Scholarship award is deliberately higher than the eligible invoice fees.",
+        "record_id": "ELG000001"
+    },
+    {
+        "case_id": "ANOMALY_003",
+        "type": "DUPLICATE_INVOICE",
+        "description": "A second invoice is created for an existing enrollment.",
+        "record_id": "ANOM-DUP-INV"
+    },
+    {
+        "case_id": "ANOMALY_004",
+        "type": "REFUND_EXCEEDS_NET_PAID",
+        "description": "Processed refund is one paisa greater than the original received payment.",
+        "record_id": "ANOM-REFUND-001"
+    },
+    {
+        "case_id": "ANOMALY_005",
+        "type": "INVOICE_LEDGER_MISMATCH",
+        "description": "Invoice total differs from the sum of its invoice lines by one paisa.",
+        "record_id": "INV000002"
+    }
+]
+

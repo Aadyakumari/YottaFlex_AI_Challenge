@@ -1,0 +1,6 @@
+scholarship_id,scholarship_name,min_academic_score,max_family_income_paise,award_percentage,max_award_paise,eligible_fee_code,effective_from,effective_to
+SCH001,Merit Scholarship 1,71.0,50000000,15.0,1100000,TUITION,2025-01-01,2027-12-31
+SCH002,Merit Scholarship 2,72.0,50000000,20.0,1200000,TUITION,2025-01-01,2027-12-31
+SCH003,Merit Scholarship 3,73.0,50000000,25.0,1300000,TUITION,2025-01-01,2027-12-31
+SCH004,Merit Scholarship 4,74.0,50000000,30.0,1400000,TUITION,2025-01-01,2027-12-31
+SCH005,Merit Scholarship 5,75.0,50000000,35.0,1500000,TUITION,2025-01-01,2027-12-31

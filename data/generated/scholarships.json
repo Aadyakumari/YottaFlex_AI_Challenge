@@ -1,0 +1,57 @@
+[
+    {
+        "scholarship_id": "SCH001",
+        "scholarship_name": "Merit Scholarship 1",
+        "min_academic_score": 71.0,
+        "max_family_income_paise": 50000000,
+        "award_percentage": 15.0,
+        "max_award_paise": 1100000,
+        "eligible_fee_code": "TUITION",
+        "effective_from": "2025-01-01",
+        "effective_to": "2027-12-31"
+    },
+    {
+        "scholarship_id": "SCH002",
+        "scholarship_name": "Merit Scholarship 2",
+        "min_academic_score": 72.0,
+        "max_family_income_paise": 50000000,
+        "award_percentage": 20.0,
+        "max_award_paise": 1200000,
+        "eligible_fee_code": "TUITION",
+        "effective_from": "2025-01-01",
+        "effective_to": "2027-12-31"
+    },
+    {
+        "scholarship_id": "SCH003",
+        "scholarship_name": "Merit Scholarship 3",
+        "min_academic_score": 73.0,
+        "max_family_income_paise": 50000000,
+        "award_percentage": 25.0,
+        "max_award_paise": 1300000,
+        "eligible_fee_code": "TUITION",
+        "effective_from": "2025-01-01",
+        "effective_to": "2027-12-31"
+    },
+    {
+        "scholarship_id": "SCH004",
+        "scholarship_name": "Merit Scholarship 4",
+        "min_academic_score": 74.0,
+        "max_family_income_paise": 50000000,
+        "award_percentage": 30.0,
+        "max_award_paise": 1400000,
+        "eligible_fee_code": "TUITION",
+        "effective_from": "2025-01-01",
+        "effective_to": "2027-12-31"
+    },
+    {
+        "scholarship_id": "SCH005",
+        "scholarship_name": "Merit Scholarship 5",
+        "min_academic_score": 75.0,
+        "max_family_income_paise": 50000000,
+        "award_percentage": 35.0,
+        "max_award_paise": 1500000,
+        "eligible_fee_code": "TUITION",
+        "effective_from": "2025-01-01",
+        "effective_to": "2027-12-31"
+    }
+]

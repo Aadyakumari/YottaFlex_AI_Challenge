@@ -1,0 +1,142 @@
+[
+    {
+        "program_id": "PRG001",
+        "program_code": "PROG001",
+        "program_name": "Academic Program 1",
+        "department": "Management",
+        "duration_years": 5
+    },
+    {
+        "program_id": "PRG002",
+        "program_code": "PROG002",
+        "program_name": "Academic Program 2",
+        "department": "Management",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG003",
+        "program_code": "PROG003",
+        "program_name": "Academic Program 3",
+        "department": "Engineering",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG004",
+        "program_code": "PROG004",
+        "program_name": "Academic Program 4",
+        "department": "Science",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG005",
+        "program_code": "PROG005",
+        "program_name": "Academic Program 5",
+        "department": "Engineering",
+        "duration_years": 5
+    },
+    {
+        "program_id": "PRG006",
+        "program_code": "PROG006",
+        "program_name": "Academic Program 6",
+        "department": "Science",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG007",
+        "program_code": "PROG007",
+        "program_name": "Academic Program 7",
+        "department": "Science",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG008",
+        "program_code": "PROG008",
+        "program_name": "Academic Program 8",
+        "department": "Management",
+        "duration_years": 5
+    },
+    {
+        "program_id": "PRG009",
+        "program_code": "PROG009",
+        "program_name": "Academic Program 9",
+        "department": "Engineering",
+        "duration_years": 5
+    },
+    {
+        "program_id": "PRG010",
+        "program_code": "PROG010",
+        "program_name": "Academic Program 10",
+        "department": "Science",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG011",
+        "program_code": "PROG011",
+        "program_name": "Academic Program 11",
+        "department": "Engineering",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG012",
+        "program_code": "PROG012",
+        "program_name": "Academic Program 12",
+        "department": "Arts",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG013",
+        "program_code": "PROG013",
+        "program_name": "Academic Program 13",
+        "department": "Engineering",
+        "duration_years": 4
+    },
+    {
+        "program_id": "PRG014",
+        "program_code": "PROG014",
+        "program_name": "Academic Program 14",
+        "department": "Science",
+        "duration_years": 5
+    },
+    {
+        "program_id": "PRG015",
+        "program_code": "PROG015",
+        "program_name": "Academic Program 15",
+        "department": "Management",
+        "duration_years": 4
+    },
+    {
+        "program_id": "PRG016",
+        "program_code": "PROG016",
+        "program_name": "Academic Program 16",
+        "department": "Engineering",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG017",
+        "program_code": "PROG017",
+        "program_name": "Academic Program 17",
+        "department": "Science",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG018",
+        "program_code": "PROG018",
+        "program_name": "Academic Program 18",
+        "department": "Arts",
+        "duration_years": 3
+    },
+    {
+        "program_id": "PRG019",
+        "program_code": "PROG019",
+        "program_name": "Academic Program 19",
+        "department": "Engineering",
+        "duration_years": 5
+    },
+    {
+        "program_id": "PRG020",
+        "program_code": "PROG020",
+        "program_name": "Academic Program 20",
+        "department": "Science",
+        "duration_years": 5
+    }
+]

@@ -1,0 +1,100 @@
+{
+    "project": "Student Finance Data Generator",
+    "seed": 20261022,
+    "generated_at_utc": "2026-11-09T09:41:35.876024+00:00",
+    "database": "student_fees.db",
+    "tables": {
+        "students": {
+            "record_count": 10000,
+            "csv_file": "students.csv",
+            "json_file": "students.json",
+            "csv_sha256": "f6973289e668dd7269fa9d3337b6d35e086c462733c66e5af55135b82527bc56",
+            "json_sha256": "8b68bda804023c0c77b75e6636b3b237eb3c5c08f8b52fd8677556f9c2ab84e9"
+        },
+        "programs": {
+            "record_count": 20,
+            "csv_file": "programs.csv",
+            "json_file": "programs.json",
+            "csv_sha256": "98d4c3d2638f5017bb376de0c4d716c2b52652c87451c66ad872cb0af89a171e",
+            "json_sha256": "f3150b7842042fce0c911839822fb4e8195ecfc3e3c05c3bf807bb97ca8193b6"
+        },
+        "fee_schedules": {
+            "record_count": 60,
+            "csv_file": "fee_schedules.csv",
+            "json_file": "fee_schedules.json",
+            "csv_sha256": "5503813432327dc32922c592e5dc92b2692481e80046325d210605e3b1f51838",
+            "json_sha256": "e8d1e341239877a13044248bd7f9bc22c84b4b80eb3eda3c11cc858076f173f5"
+        },
+        "enrollments": {
+            "record_count": 30000,
+            "csv_file": "enrollments.csv",
+            "json_file": "enrollments.json",
+            "csv_sha256": "8ba29bbbeaf3a97c62c07fcea3186f459e97a8e3e979766f1d6edcb147b75446",
+            "json_sha256": "19d569051b5885b5eec8e8b6a0cb0750bc199d9cd996d21c45e99adf72b868d6"
+        },
+        "invoices": {
+            "record_count": 30000,
+            "csv_file": "invoices.csv",
+            "json_file": "invoices.json",
+            "csv_sha256": "8080edf13956353af8cc1aa883849e574fde2ffb240d13f5cce5780c3421e38a",
+            "json_sha256": "a2839dd2eddfeaca8769855f082c01d167d1c66959320f9a9c4760f2b5b5662f"
+        },
+        "invoice_lines": {
+            "record_count": 30000,
+            "csv_file": "invoice_lines.csv",
+            "json_file": "invoice_lines.json",
+            "csv_sha256": "86ade85c4a912720c2891cd6027da6ff9252ecd9e3cc798ff125fe7026f0db81",
+            "json_sha256": "1bf9998d5d2d3ae03b56ad8b736fabcb1525a87e71b52f27a48bcb0679fa675f"
+        },
+        "scholarships": {
+            "record_count": 5,
+            "csv_file": "scholarships.csv",
+            "json_file": "scholarships.json",
+            "csv_sha256": "4fcf933f75014445fa5ebcbd7a0b8e925c2ca9a3f2541ac75222aafb14d9633b",
+            "json_sha256": "fc2a1558cbbb87059a367d98200452f2711e5979b4632dcd133f8f0bb696a1ae"
+        },
+        "eligibility": {
+            "record_count": 15000,
+            "csv_file": "eligibility.csv",
+            "json_file": "eligibility.json",
+            "csv_sha256": "7960a40d485c74c0c3638fb5fa8e2bae4058b92de9371e4584e3f88190ffaa72",
+            "json_sha256": "30f1bb9de09e75dde99a82328e5aada44e5c9ecd5e35ca210f2573a199ee7331"
+        },
+        "payments": {
+            "record_count": 50000,
+            "csv_file": "payments.csv",
+            "json_file": "payments.json",
+            "csv_sha256": "b03182068676aea0826a3fcf3a257a52096347b87dae668477d1687fa00d60d5",
+            "json_sha256": "a7d7fc83666e2a880d10f39b3babce927708c04e421a96650993e08be5668585"
+        },
+        "payment_allocations": {
+            "record_count": 50000,
+            "csv_file": "payment_allocations.csv",
+            "json_file": "payment_allocations.json",
+            "csv_sha256": "d49dceb31a7212117ed1d35c4e3b27d3b6fee7416c518368b4fe4ee75f8eb40f",
+            "json_sha256": "6a90f50324a2755da0de6fe304a866140287eb8074e1c8bfbecd1ff3ca34e349"
+        },
+        "refunds": {
+            "record_count": 0,
+            "csv_file": "refunds.csv",
+            "json_file": "refunds.json",
+            "csv_sha256": "b2bd27ace322da4ab39dfc0d2a3db755c560114b931be69276b9a41e104f8511",
+            "json_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        },
+        "event_history": {
+            "record_count": 0,
+            "csv_file": "event_history.csv",
+            "json_file": "event_history.json",
+            "csv_sha256": "71930f73fa80ab8648d2bc7aa5210498e007db5175be5389c2bd053bd376d0d3",
+            "json_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        },
+        "late_fee_assessments": {
+            "record_count": 0,
+            "csv_file": "late_fee_assessments.csv",
+            "json_file": "late_fee_assessments.json",
+            "csv_sha256": "471d05601684244676783d83ade2a33260ef0b5ab9991aca32d8836bda3803d8",
+            "json_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+        }
+    },
+    "anomaly_manifest": "data\\reports\\anomaly_manifest.json"
+}

@@ -1,0 +1,21 @@
+program_id,program_code,program_name,department,duration_years
+PRG001,PROG001,Academic Program 1,Management,5
+PRG002,PROG002,Academic Program 2,Management,3
+PRG003,PROG003,Academic Program 3,Engineering,3
+PRG004,PROG004,Academic Program 4,Science,3
+PRG005,PROG005,Academic Program 5,Engineering,5
+PRG006,PROG006,Academic Program 6,Science,3
+PRG007,PROG007,Academic Program 7,Science,3
+PRG008,PROG008,Academic Program 8,Management,5
+PRG009,PROG009,Academic Program 9,Engineering,5
+PRG010,PROG010,Academic Program 10,Science,3
+PRG011,PROG011,Academic Program 11,Engineering,3
+PRG012,PROG012,Academic Program 12,Arts,3
+PRG013,PROG013,Academic Program 13,Engineering,4
+PRG014,PROG014,Academic Program 14,Science,5
+PRG015,PROG015,Academic Program 15,Management,4
+PRG016,PROG016,Academic Program 16,Engineering,3
+PRG017,PROG017,Academic Program 17,Science,3
+PRG018,PROG018,Academic Program 18,Arts,3
+PRG019,PROG019,Academic Program 19,Engineering,5
+PRG020,PROG020,Academic Program 20,Science,5
